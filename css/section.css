@@ -40,8 +40,8 @@
   font-size: 22px;
 }
 
-.section__span--lightslategray {
-  color: hsl(210, 14%, 53%);
+.section__span--white {
+  color: hsl(0, 0%, 100%);
 }
 
 .section__span--aqua {
